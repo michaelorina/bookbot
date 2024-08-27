@@ -18,7 +18,7 @@ Ensure you have Python installed on your machine. You can download it from [pyth
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/your-username/bookbot.git
+   git clone https://github.com/michaelorina/bookbot.git
    
 2. Navigate to the Project Directory
 
