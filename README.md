@@ -1,6 +1,6 @@
 # BookBot
 
-BookBot is a simple Python script that generates a report on the frequency of words and characters in a given text file. The report includes the total word count and the number of occurrences for each character in the text.
+BookBot is my first [Boot.dev](https://www.boot.dev) project. It is a simple Python script that generates a report on the frequency of words and characters in a given text file. The report includes the total word count and the number of occurrences for each character in the text.
 
 ## Features
 
